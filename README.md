@@ -1,6 +1,6 @@
-# Glyph Exposure
+# Mere Exposure
 
-This repository is intended to implement the mere-exposure experiment described [here](https://dgmulf.github.io/lab-wiki/computational-aesthetics.html#mere-exposure-glyphs-on-cards). The experiment tests whether behavioral network optimization can reproduce the human ideograph liking curve reported in Table 3 of [Montoya et al. (2017)](#references) and learn a perceptual prior in fewer card draws than a control optimizing cross-entropy against a simple empirical distribution.
+This repository is intended to implement the lab wiki’s [mere-exposure card-draw experiment](https://dgmulf.github.io/lab-wiki/computational-aesthetics.html#mere-exposure-card-draws). The experiment tests whether behavioral network optimization produces an inverted-U relationship between work exposure and liking, as observed for visual stimuli by [Montoya et al. (2017)](#references), and reaches the same prior-loss threshold in fewer fitted card draws than a work-only control.
 
 ## References
 
